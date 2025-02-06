@@ -8,6 +8,6 @@ So i want to do my own
 
 ## Features i want to add
 
-- [ ] Create new song with tabs
 - [ ] Store songs in a database while keeping chord position
 - [ ] Option to create lists of songs
+- [ ] Find a way where drag n drop clones the element so we can use multiple times the same chord
